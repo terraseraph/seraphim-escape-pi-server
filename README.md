@@ -5,6 +5,8 @@
 
 `node ./app.js`
 
+Listens on localhost:5002
+
 ## Notes
 
 This node server was designed to be run on a pi, however its is fully tested and working on any other system running node.
