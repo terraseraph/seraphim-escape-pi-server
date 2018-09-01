@@ -1,0 +1,21 @@
+{
+  "name": "JOAT pi-server",
+  "version": "0.0.0",
+  "description": "Server to control the events/actions via scripts",
+  "main": "app.js",
+  "repository": "",
+  "author": "Harley Jarrett",
+  "dependencies": {
+    "async": "~0.2.8",
+    "cookie-parser": "^1.4.3",
+    "delay": "2.0.0",
+    "express": "~3.2.4",
+    "json-valid": "0.0.4",
+    "nodemon": "1.17.2",
+    "parser-readline": "1.0.2",
+    "play": "0.5.0",
+    "request": "2.85.0",
+    "serialport": "6.1.1",
+    "shelljs": "^0.8.2"
+  }
+}
